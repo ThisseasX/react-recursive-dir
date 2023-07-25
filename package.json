@@ -1,0 +1,34 @@
+{
+  "name": "react-recursive-dir",
+  "version": "1.0.0",
+  "description": "Visualizing a directory tree recursively using React.",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite --open",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://thisseasx.github.io/react-recursive-dir",
+  "author": "ThisseasX",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.33.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "gh-pages": "^5.0.0",
+    "vite": "^4.4.7"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.1",
+    "@mui/material": "^5.14.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

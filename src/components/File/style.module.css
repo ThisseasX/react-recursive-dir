@@ -1,0 +1,13 @@
+.name {
+  padding: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  &:hover {
+    background-color: #f3f3f3;
+  }
+}
+
+.icon {
+  margin-right: 4px;
+}

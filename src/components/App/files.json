@@ -1,0 +1,56 @@
+[
+  {
+    "name": "f1",
+    "children": [
+      {
+        "name": "f3",
+        "children": [
+          {
+            "name": "text1.txt"
+          },
+          {
+            "name": "text2.txt"
+          }
+        ]
+      },
+      {
+        "name": "f4",
+        "children": [
+          {
+            "name": "text3.txt"
+          },
+          {
+            "name": "text4.txt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "f2",
+    "children": [
+      {
+        "name": "f5",
+        "children": [
+          {
+            "name": "text5.txt"
+          },
+          {
+            "name": "text6.txt"
+          }
+        ]
+      },
+      {
+        "name": "f6",
+        "children": [
+          {
+            "name": "text7.txt"
+          },
+          {
+            "name": "text8.txt"
+          }
+        ]
+      }
+    ]
+  }
+]
